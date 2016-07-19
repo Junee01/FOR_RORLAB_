@@ -1,4 +1,4 @@
-This File is 'ko.yml' for Rails users.
+#This File is 'ko.yml' for Rails users.
 - Rails 4 + devise gem
 
 All English were translated to Korea.
